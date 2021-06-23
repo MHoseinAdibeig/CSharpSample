@@ -1,0 +1,15 @@
+F:\Projects\Server\MyWPFApplication\ViewModel\bin\Debug\ViewModel.dll
+F:\Projects\Server\MyWPFApplication\ViewModel\bin\Debug\ViewModel.pdb
+F:\Projects\Server\MyWPFApplication\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+F:\Projects\Server\MyWPFApplication\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+F:\Projects\Server\MyWPFApplication\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+F:\Projects\Server\MyWPFApplication\ViewModel\obj\Debug\ViewModel.dll
+F:\Projects\Server\MyWPFApplication\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.cache
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\ETC\Desktop\MyWPFApplication\MyWPFApplication\ViewModel\obj\Debug\ViewModel.pdb
