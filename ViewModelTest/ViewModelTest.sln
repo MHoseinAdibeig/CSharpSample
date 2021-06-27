@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelTest", "ViewModelTest\ViewModelTest.csproj", "{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Debug|x64.ActiveCfg = Debug|x64
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Debug|x64.Build.0 = Debug|x64
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Release|x64.ActiveCfg = Release|x64
+		{B5697F7F-8E3B-4B0E-AA95-9B2D2519F04A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B7FF472-293B-46DC-A682-243FC3A362CB}
+	EndGlobalSection
+EndGlobal

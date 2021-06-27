@@ -1,0 +1,16 @@
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.exe
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.deps.json
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.runtimeconfig.json
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.runtimeconfig.dev.json
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.dll
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\ref\EventPractice.dll
+C:\Users\ETC\source\repos\EventPractice\EventPractice\bin\Debug\net5.0\EventPractice.pdb
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.csprojAssemblyReference.cache
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.AssemblyInfoInputs.cache
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.AssemblyInfo.cs
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.csproj.CoreCompileInputs.cache
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.dll
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\ref\EventPractice.dll
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.pdb
+C:\Users\ETC\source\repos\EventPractice\EventPractice\obj\Debug\net5.0\EventPractice.genruntimeconfig.cache
